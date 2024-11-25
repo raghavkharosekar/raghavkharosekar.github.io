@@ -1,0 +1,12 @@
+title: "Homework 6.1 Visualizations"
+description: "Visualizations created with Python, Altair, and Vega-Lite"
+baseurl: "" 
+url: "https://raghavkharosekar.github.io"
+markdown: kramdown
+
+
+include:
+  - assets
+
+plugins:
+  - jekyll-seo-tag
