@@ -24,7 +24,9 @@ This visualization is a bar chart showing the number of buildings by usage type 
 
 This bar chart provides a clear and static view of the data, serving as a foundation for understanding the distribution of building types across counties.
 
-![Visualization 1: Bar Chart](https://github.com/raghavkharosekar/raghavkharosekar.github.io/blob/assets/bar_chart.html)
+## Visualization 1: Bar Chart
+<iframe src="assets/bar_chart.html" width="700" height="400" frameborder="0"></iframe>
+
 
 ---
 
@@ -46,8 +48,8 @@ This visualization is an interactive scatter plot showing the square footage of 
 
 This scatter plot’s interactivity is its most notable feature, making it easy to drill down into specific aspects of the dataset.
 
-![Visualization 2: Scatter Plot](https://github.com/raghavkharosekar/raghavkharosekar.github.io/blob/assets/scatter_plot.html)
-
+## Visualization 2: Scatter Plot
+<iframe src="assets/scatter_plot.html" width="700" height="400" frameborder="0"></iframe>
 ---
 
 ## Interactivity Details
