@@ -58,8 +58,8 @@ For the second plot, the interactive multi-selection filter allows users to focu
 ## Data and Notebook Links
 Explore the dataset and notebook used to create these visualizations:
 
-- [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
-- [The Analysis](https://github.com/USERNAME/REPOSITORY_NAME/blob/main/Workbook.ipynb)
+- [The Data](https://github.com/raghavkharosekar/raghavkharosekar.github.io/blob/main/building_inventory.csv)
+- [The Analysis](https://github.com/raghavkharosekar/raghavkharosekar.github.io/blob/main/rk38_homework_6_2.ipynb)
 
 ---
 
